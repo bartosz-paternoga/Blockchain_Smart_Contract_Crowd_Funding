@@ -1,4 +1,4 @@
-This is a deployed blockchain smart contract for crowd funding app. Webapp is running on ethereum rinkeby test network.
+This is a deployed blockchain smart contract for a crowd funding app. Webapp is running on ethereum rinkeby test network.
 Smart contract written with solidity, frontend with nextjs.
 
 Live Demo at https://murmuring-gorge-90888.herokuapp.com
